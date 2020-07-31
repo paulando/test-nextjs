@@ -13,7 +13,7 @@ const Home = () => (
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        Lorem impsum dolor sit amet.
       </p>
 
       <div className="grid">
