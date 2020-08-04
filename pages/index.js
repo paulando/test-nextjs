@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Hello and welcome to <a href="https://nextjs.org">Next.js!</a>
+        Upteitas to <a href="https://nextjs.org">Next.js!</a>
       </h1>
 
       <p className="description">
